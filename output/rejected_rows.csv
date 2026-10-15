@@ -1,0 +1,5 @@
+order_id,date,product,quantity,unit_price,source_file,source_row,reason
+SF009,not-a-date,Cotton shirt,2,650,august.csv,11,Invalid isoformat string: 'not-a-date'
+SF010,2026-08-30,Polo shirt,'-2,550,august.csv,12,Quantity must be positive and price finite/nonnegative
+SF019,2026-09-27,,2,650,september.csv,11,Missing order ID or product
+SF020,2026-09-28,Cotton shirt,2,NaN,september.csv,12,Quantity must be positive and price finite/nonnegative

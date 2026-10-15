@@ -1,0 +1,9 @@
+{
+  "files": 3,
+  "input_rows": 32,
+  "clean_rows": 24,
+  "duplicates": 4,
+  "rejected_rows": 4,
+  "reconciled": true,
+  "revenue_inr": "51950.00"
+}

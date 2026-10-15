@@ -1,0 +1,5 @@
+order_id,date,product,quantity,unit_price,amount,source_file,source_row,reason
+SF002,2026-08-03,Linen shirt,3,900.00,2700.00,august.csv,10,Duplicate order ID
+SF021,2026-10-01,Cotton shirt,4,650.00,2600.00,october.csv,10,Duplicate order ID
+SF024,2026-10-07,Polo shirt,9,550.00,4950.00,october.csv,11,Conflicting order ID; first valid row retained
+SF011,2026-09-01,Cotton shirt,3,650.00,1950.00,september.csv,10,Duplicate order ID

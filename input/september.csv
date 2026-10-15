@@ -1,0 +1,12 @@
+order_id,date,product,quantity,unit_price
+SF011,2026-09-01,Cotton shirt,3,650
+SF012,2026-09-04,Linen shirt,2,900
+SF013,2026-09-09,Denim jeans,4,1200
+SF014,2026-09-12,Polo shirt,6,550
+SF015,2026-09-15,Cotton shirt,2,650
+SF016,2026-09-18,Linen shirt,3,900
+SF017,2026-09-21,Denim jeans,1,1200
+SF018,2026-09-26,Polo shirt,3,550
+SF011,2026-09-01,Cotton shirt,3,650
+SF019,2026-09-27,,2,650
+SF020,2026-09-28,Cotton shirt,2,NaN
