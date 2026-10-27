@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "framework": null,
+  "outputDirectory": "output",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/report.html"
+    }
+  ]
+}
